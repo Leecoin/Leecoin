@@ -3,13 +3,13 @@ Leecoin integration/staging tree
 
 http://127.0.0.1:7700
 
-For an immediately usable, binary version of the Bitcoin Core software, see
+For an immediately usable, binary version of the leecoin Core software, see
 https://Leecoin.org/en/download/.
 
 What is Leecoin?
 ---------------------
 
-Leecoin connects to the Bitcoin peer-to-peer network to download and fully
+Leecoin connects to the leecoin peer-to-peer network to download and fully
 validate blocks and transactions. It also includes a wallet and graphical user
 interface, which can be optionally built.
 
